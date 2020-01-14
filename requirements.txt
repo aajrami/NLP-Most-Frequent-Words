@@ -6,4 +6,4 @@ Jinja2==2.9.6
 MarkupSafe==1.0
 nltk==3.4.5
 six==1.11.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
